@@ -1,0 +1,17 @@
+{
+  "name": "Encriptadora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crypt.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node crypt"
+     
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
